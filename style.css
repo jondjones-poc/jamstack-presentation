@@ -11,7 +11,7 @@
 
 body {
     font-family: 'Roboto',sans-serif;
-    background-color: blue;
+    background-color: green;
     color: var(--primary);
     height: 100vh;
     overflow: hidden;
